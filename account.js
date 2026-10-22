@@ -1,17 +1,17 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "NIROB BD SHOP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "t.me/nirob_boss_leader";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/+I_fPAn4cqXBiYzdl";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
@@ -21,6 +21,6 @@ var youtube_channel_link = "YouTube channel link";
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
+var notification_text = `WELCOME TO NIROB SHOP কাস্টমার সার্ভিস 24/7 টেলিগ্রাম..!  সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
 অর্ডার করুন নিশ্চিন্তে ♥️`;
